@@ -91,10 +91,10 @@ output_dir = "C:/Users/Yasukawa Lab/Desktop/segmantation_tools/hibikino_segmenta
 # }
 
 color_map = {
-    1 : (0, 255, 0),  # Right_Green #Green
-    2 : (0, 100, 0),  #main_stem    # Green  
-    3 : (0, 0, 255),  #peduncle     # Blue
-    4 : (255, 0, 0),  #ripe_tomato  # Red 
+    1 : (0, 255, 0),  #Green_Tomato #Right_Green
+    2 : (0, 100, 0),  #main_stem    #Green  
+    3 : (0, 0, 255),  #peduncle     #Blue
+    4 : (255, 0, 0),  #ripe_tomato  #Red 
 }
 
 
